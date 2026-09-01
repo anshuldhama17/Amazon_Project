@@ -167,6 +167,6 @@ The dashboard converts raw Amazon sales data into clear, actionable business ins
 All product names, sales figures, and review counts used in this project are synthetically generated for educational and portfolio purposes only.
 They do not represent actual Amazon data.
 
-## Developed By - Tanish
+## Developed By - Anshul
 
 This project highlights strong data visualization and analytical skills essential for modern business intelligence roles.

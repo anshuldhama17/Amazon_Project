@@ -1,8 +1,8 @@
 # PowerBI Project: Sales Performance Dashboard for Amazon Products
 ## Project Overview
 
-![Dashboard](https://raw.githubusercontent.com/anshuldhama17/Amazon_Project/main/Amazon_Dashboard.png)
 
+![Amazon Poster](https://raw.githubusercontent.com/anshuldhama17/Amazon_Project/main/Amazon_Poster.png)
 **Project Title**: Amazon Sales Performance Dashboard<br>
 **Tool Used**: Power BI Desktop
 
@@ -10,7 +10,7 @@
 An interactive Power BI dashboard built to analyze Amazon product sales performance, category-wise trends, time-based growth, and customer engagement through reviews.
 This project provides actionable insights into sales performance across products and categories, monthly and weekly sales trends, top-performing products, and customer behavior patterns.
 
-![Amazon Poster](https://raw.githubusercontent.com/anshuldhama17/Amazon_Project/main/Amazon_Poster.png)
+![Dashboard](https://raw.githubusercontent.com/anshuldhama17/Amazon_Project/main/Amazon_Dashboard.png)
 
 The Amazon Sales Dashboard is designed to deliver a comprehensive view of e-commerce sales performance, enabling analysis across product categories, sales trends, and customer engagement indicators.
 
